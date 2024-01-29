@@ -25,3 +25,11 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.test-button {
+    width: auto;
+    height: auto;
+    border: black 3px solid;
+    background-color: white;
+    font: black;
+}
